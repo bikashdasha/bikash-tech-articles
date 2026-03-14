@@ -2,13 +2,13 @@
 
 ## Backend
 
-- [Spring Boot REST API](backend/spring-boot-rest-api.md)
+1- [Spring Boot REST API](backend/spring-boot-rest-api.md)
 
 ## Frontend
-- [Angular_Basic_Information](frontend/angular-basic-fundamentals.md)
+1- [Angular_Basic_Information](frontend/angular-basic-fundamentals.md)
 
 ## AI
-- [AI_Basic](AI/Ai_Basic.md)
+1- [AI_Basic](AI/Ai_Basic.md)
 
 ## Database
 
