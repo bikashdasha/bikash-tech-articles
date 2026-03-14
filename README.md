@@ -8,7 +8,7 @@
 - [Angular_Basic_Information](frontend/angular-basic-fundamentals.md)
 
 ## AI
-- [AI_Basic](/Ai_Basic.md)
+- [AI_Basic](AI/Ai_Basic.md)
 
 ## Database
 
