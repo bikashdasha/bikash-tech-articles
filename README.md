@@ -5,8 +5,7 @@
 - [Spring Boot REST API](backend/spring-boot-rest-api.md)
 
 ## Frontend
-
-Coming soon...
+-[Angular_Basic_Information](frontend/angular-basic-fundamentals.md)
 
 ## Database
 
