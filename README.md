@@ -1,17 +1,13 @@
-# Spring Boot REST API Guide
+# 📚 Bikash Developer Articles
 
-## Introduction
-Spring Boot helps create REST APIs quickly.
+## Backend
 
-## Example
+- [Spring Boot REST API](backend/spring-boot-rest-api.md)
 
-```java
-@RestController
-public class HelloController {
+## Frontend
 
-@GetMapping("/hello")
-public String hello(){
-return "Hello World";
-}
+Coming soon...
 
-}
+## Database
+
+Coming soon...
